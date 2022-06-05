@@ -1,2 +1,5 @@
 # 2022-lambda-helper
-Kleine Helperfunktionen für AWS Lambda Funktionen
+Hier entstehen kleine Helper für AWS Lambda Funktionen.
+
+## 2022-LH-Hash
+
