@@ -1,7 +1,7 @@
 import hashlib
 
 # data
-example_data = ' Hallo, here are some data. whoop, whoop'
+example_data = ' Hallo, here are some data. whoop, whoop :) '
 
 # function
 def _hash_data_creation(example_data):
